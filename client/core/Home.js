@@ -52,7 +52,7 @@ const useStyles = makeStyles(theme => ({
     margin: '0 10px'
   },
   enrolledCard: {
-    backgroundColor: '#616161',
+    backgroundColor: '#3949AB',
   },
   divider: {
     marginBottom: 16,

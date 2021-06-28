@@ -87,7 +87,7 @@ const useStyles = makeStyles(theme => ({
   },
   drawerPaper: {
     width: 240,
-    backgroundColor: '#616161'
+    backgroundColor: '#3949AB'
   },
   content: {
     flexGrow: 1,
@@ -110,7 +110,7 @@ const useStyles = makeStyles(theme => ({
       textAlign: 'center',
       color: '#dfdfdf',
       '& span':{
-        color: '#fffde7',
+        color: '#0288D1',
         fontSize: '1.15em'
       }
     },
